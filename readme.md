@@ -1,4 +1,4 @@
-this code:
+about:
 * calculates n'th fibonacci number using binet's formula
 
 to run:

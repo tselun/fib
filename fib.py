@@ -1,4 +1,4 @@
-# calculates fibonacci number using binet's formula
+# calculates n'th fibonacci number using binet's formula
 
 import sys
 import math
